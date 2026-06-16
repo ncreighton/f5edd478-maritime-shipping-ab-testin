@@ -1,2 +1,59 @@
-# f5edd478-maritime-shipping-ab-testin
-Stop losing high-value maritime leads because of a one-size-fits-all booking page. Your shipping customers are diverse—container vs. bulk, short-sea vs. deep-sea—yet your WordPress site treats them all the same. The Maritime &amp; Shipping A/B Testing and Conversion Optimization WordPress Plugin lets you test and optimize each segment individually, so
+=== Maritime & Shipping A/B Testing and Conversion Optimization WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+== Description ==
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Maritime & Shipping A/B Testing and Conversion Optimization WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w14n26H9Mw8FGavOcZm3p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w14n26H9Mw8FGavOcZm3p)
+
